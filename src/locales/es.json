@@ -1,0 +1,10 @@
+{
+  "title": "Tienda de Episodios API Shows",
+  "episode": {
+    "view-link": "Ver en TVMaze"
+  },
+  "footer": {
+    "copyright": "Copyright © 2024 TV Maze, inc. Todos los derechos reservados.",
+    "author": "Desarrollado por Salim Ramirez"
+  }
+}
